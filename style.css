@@ -7,6 +7,15 @@ body {
     height: auto;
 }
 
+code {
+    font-family: monospace;
+}
+
+p {
+    text-indent: 50px;
+}
+
+
 /*
 Add transition to containers so they can push in and out.
 */
